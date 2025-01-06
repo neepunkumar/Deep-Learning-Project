@@ -103,12 +103,11 @@ Install the following libraries using `pip` or `conda`:
 ---
 
 ## Submission Guidelines
-Submit the following files:
+Uploaded the following files:
 - Completed Jupyter notebook(s) (`.ipynb`).
 - HTML version of the notebook(s).
-- Predictions CSV file for Kaggle leaderboard submission.
 
-**Ensure that all outputs are displayed in the HTML files, including graphs and metrics.**
+**Ensured that all outputs are displayed in the HTML files, including graphs and metrics.**
 
 ---
 
