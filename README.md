@@ -1,6 +1,5 @@
-# COMP5625M Practical Assessment - Deep Learning
+#  Deep Learning Project
 
-This repository contains the coursework for COMP5625M, focused on practical deep learning implementations. The coursework is divided into two main parts:
 
 ---
 
@@ -21,11 +20,11 @@ This repository contains the coursework for COMP5625M, focused on practical deep
 
 The coursework is divided into two parts:
 
-### Image Classification using DNN and CNN (70 Marks)
+### Image Classification using DNN and CNN 
 - Train and evaluate a deep neural network (DNN) and a convolutional neural network (CNN) on the TinyImageNet30 dataset.
 - Use data augmentation, dropout, and hyperparameter tuning to improve model performance.
 
-### Image Captioning using RNN (30 Marks)
+### Image Captioning using RNN 
 - Implement an RNN-based decoder to generate captions for images from the COCO dataset.
 - Evaluate the generated captions using metrics and visualize the results.
 
@@ -35,11 +34,11 @@ The coursework is divided into two parts:
 
 ## Motivation
 
-The coursework aims to:
+The project aims to:
 - Provide practical experience in training and evaluating deep learning models.
 - Demonstrate the use of CNNs for image classification and RNNs for text generation.
 - Explore techniques to mitigate overfitting and improve model generalization.
-- Familiarize students with real-world datasets like TinyImageNet and COCO.
+- Familiarize with real-world datasets like TinyImageNet and COCO.
 
 ---
 
@@ -69,9 +68,9 @@ Install the following libraries using `pip` or `conda`:
 
 ---
 
-## Assessment Details
+## Project Details
 
-### Part I: Image Classification (70 Marks)
+### Part I: Image Classification 
 #### Dataset Preparation
 - Use the TinyImageNet30 dataset for training and evaluation.
 - Implement PyTorch `Dataset` and `DataLoader` classes.
@@ -90,7 +89,7 @@ Install the following libraries using `pip` or `conda`:
 
 ---
 
-### Part II: Image Captioning (30 Marks)
+### Part II: Image Captioning
 #### Decoder Design
 - Implement an RNN-based decoder with embedding and linear layers.
 
